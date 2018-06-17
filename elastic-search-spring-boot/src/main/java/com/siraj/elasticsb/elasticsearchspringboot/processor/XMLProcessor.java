@@ -84,7 +84,7 @@ public class XMLProcessor {
 
         try{
 
-            //create output directory is not exists
+            //create output directory is not exist
             File folder = new File(OUTPUT_FOLDER);
             if(!folder.exists()){
                 folder.mkdir();
