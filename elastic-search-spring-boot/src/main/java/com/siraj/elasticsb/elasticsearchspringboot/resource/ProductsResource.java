@@ -126,7 +126,7 @@ public class ProductsResource {
 
         }
 
-//        return response.getResult().toString();
+//       return response.getResult().toString();
         return jsonObjects.size();
     }
 
